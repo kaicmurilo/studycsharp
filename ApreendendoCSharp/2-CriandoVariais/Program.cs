@@ -12,6 +12,10 @@ namespace _2_CriandoVariais
         {
             Console.WriteLine("Executando parte 2 - Criando Variaveis");
 
+            int idade = 32;
+
+            Console.WriteLine("a sua idade é: "+idade+"!");
+
             Console.WriteLine("Execução finalizada. Tecle enter para sair...");
             Console.ReadLine();
         }

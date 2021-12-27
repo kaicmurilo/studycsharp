@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3e9d75d1-2496-4804-bb87-98becbacf64d": {
+      "ProjectGuid": "3e9d75d1-2496-4804-bb87-98becbacf64d",
+      "DisplayName": "2-CriandoVariais",
+      "ColorIndex": 0
+    },
+    "77f966ed-0e6d-4ee2-afd6-27509f2565fc": {
+      "ProjectGuid": "77f966ed-0e6d-4ee2-afd6-27509f2565fc",
+      "DisplayName": "1-PrimeiroProjeto",
+      "ColorIndex": 1
+    },
+    "81e3d896-b04a-432d-bc30-0c9725940a63": {
+      "ProjectGuid": "81e3d896-b04a-432d-bc30-0c9725940a63",
+      "DisplayName": "CriandoVariaveis",
+      "ColorIndex": 2
+    },
+    "a2f09cad-7b91-4989-b300-8697b483e733": {
+      "ProjectGuid": "a2f09cad-7b91-4989-b300-8697b483e733",
+      "DisplayName": "3-CriandoVariaveisPontoFlutuante",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
